@@ -2140,7 +2140,7 @@
     },
     {
       "name": "suede-skills",
-      "description": "74 skills for Claude Code and Codex. A build DAG researches your repo, fans out disjoint lanes, and refutes its own review before anything lands. A blunt A-F ship grade blocks the bad merge instead of complimenting it. The same folder designs the page, writes the copy, and ships native iOS and Android builds. One skill argued Amazon out of $448.31.",
+      "description": "74 skills for Claude Code and Codex. A build DAG researches your repo, fans out disjoint lanes, and refutes its own review before anything lands. A blunt A-F ship grade blocks the bad merge instead of complimenting it. The same folder designs the page, writes the copy, and ships native iOS and Android builds.",
       "version": "0.16.0",
       "author": {
         "name": "Jason Colapietro",
